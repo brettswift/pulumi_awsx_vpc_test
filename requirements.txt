@@ -1,0 +1,15 @@
+pulumi
+pulumi-aws
+pulumi-awsx
+pulumi_cloudflare
+pulumi-random
+boto3
+
+pytest-describe
+faker
+mockito
+pytest-mockito
+
+wheel
+
+pydantic==2.6.3
